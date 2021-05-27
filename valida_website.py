@@ -1,6 +1,5 @@
 import urllib.request
 
-ambiente = "TESTE"
 urls = open("sites.txt","r")
 
 print ("<!DOCTYPE html>")
